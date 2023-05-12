@@ -5,7 +5,7 @@ void main() {
   runApp(MaterialApp(
     home: Scaffold(
       backgroundColor: Colors.red,
-      appBar: AppBar(title: Center(child: Text('TestDice'),), backgroundColor: Colors.red,
+      appBar: AppBar(title: Center(child: Text('TestDice'),), backgroundColor: Colors.blue,
       ),
       body:Dicepage(),
     ),
